@@ -385,5 +385,12 @@
     <a href="https://www.strava.com/athletes/{{ contact.strava }}" target="_blank">{{ contact.strava }}</a>
   </div>
   {%- endif %}
+
+  {%- if contact.habr %}
+  <div class="contact-item" title="habr">
+    <i class="fa-solid fa-newspaper"></i>
+    <a href="https://habr.com/ru/users/{{ contact.habr }}/publications/articles/" target="_blank">habr:{{ contact.habr }}</a>
+  </div>
+  {%- endif %}
 </div>
 {%- endif %}
