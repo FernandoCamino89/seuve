@@ -1,6 +1,6 @@
-title: Head of Mobile | Ivan Smolin
-url:
-baseurl:
+title: Un ejecutivo de Quirón Prevención | Fernando Camino
+url: 
+baseurl: un-ejecutivo-de-quiron.fernando-camino.com
 
 # Sass setting
 sass:
@@ -8,16 +8,16 @@ sass:
   style:    compressed
 
 # Custom
-lang: ru
+lang: es
 open: true                  # show or hide your resume
-allow_search_engines: false  # allow your resume indexing by search engine, 'true' or 'false'
+allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
 analytics:
-  google:                   # google analytics
-  cloudflare:               # cloudflare analytics
+  google:  G-60XHX0PCCE                 # google analytics
+  cloudflare:  4fd228afb89746028aafb7c6a34d49c3             # cloudflare analytics
   umami:
-    script: https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
-    website_id: 7abcbc2a-0e85-4f3d-af23-27a407d35bd6 # umami analytics website id (Replace it with your own config)
-    domains: petropavel13.github.io             # umami analytics domains (Replace it with your own config)
+    script: # https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
+    website_id: # 7abcbc2a-0e85-4f3d-af23-27a407d35bd6 # umami analytics website id (Replace it with your own config)
+    domains: # petropavel13.github.io             # umami analytics domains (Replace it with your own config)
 description:
 open_graph:
   enable: true                        # enable open graph meta tags
@@ -25,7 +25,7 @@ open_graph:
 
 # Style
 text_direction: ltr         # text direction, 'ltr' or 'rtl'
-date_format: "%Y-%m-%d"     # date format
+date_format: "%Y%m%d"     # date format
 theme_color: "#1DA1F2"      # your favorite theme color
 contact_delimiter: "|"      # contact delimiter, '·', '/' or '|'
 section_icon: true          # section title icon, true or false
