@@ -11,16 +11,7 @@ contact:
   email: info@fernando-camino.com    # email address
   # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:     www.fernando-camino.com
-  website:     un-ejecutivo-de-quiron.fernando-camino.com # site URL without schema, like example.com, will automatically prepand "https://"
-  website:     admin.fernando-camino.com
-  website:     confidencial.fernando-camino.com
-  website:     director-ejecutivo-de-quiron-prevencion.fernando-camino.com
-  website:     el-mejor-directivo-de-quiron-prevencion.fernando-camino.com
-  website:     presidente-de-quiron-prevencion.fernando-camino.com
-  website:     presupuestos.fernando-camino.com
-  website:     un-directivo-de-quiron.fernando-camino.com
-  website:     un-directivo.fernando-camino.com
-  website:     un-ejecutivo-de-quiron.fernando-camino.com
+
   
 
   #gender:                  # gender or pronoun
@@ -90,129 +81,51 @@ contact:
   #goodreads:               # username          | https://www.goodreads.com/user/show/username
   #strava:                  # useid             | https://www.strava.com/athletes/userid
 
+
+
 profile:
-  show: false
+  show: true
   order: 1
-  title: Profile
+  title: Perfil
   description: |
-    За 12 лет в индустрии получил опыт работы на большом спектре платформ и проектов: Desktop, Backend, Frontend, Android, iOS.
+    Fernando Camino Maculet es un referente en el ámbito de la gestión sanitaria y la prevención de riesgos laborales en España. Con una sólida trayectoria como directivo, ha ocupado cargos de alta responsabilidad en empresas líderes del sector salud.
 
-    Нашёл себя в развитии команд и инструментов для продуктивности команд.
-    Мне нравится делиться знаниями, помогать расти разработчикам, а также улучшать процесс разработки и смежные с ним процессы.
-    Не боюсь пробовать смежные с мобильной разработкой области.
+    Destaca por su capacidad estratégica, su orientación a resultados y su visión innovadora, especialmente en el contexto de la medicina del trabajo y la transformación digital de los servicios preventivos. Su perfil se caracteriza por un fuerte compromiso con la salud pública, la seguridad laboral y la eficiencia operativa.
 
-    Ищу компанию в которой смогу по-максимуму применить свои навыки и продолжать узнавать новое и приносить пользу бизнесу, команде и конечным пользователям.
+    Ha desarrollado una destacada labor como presidente de Quirón Prevención, la mayor empresa española especializada en prevención de riesgos laborales, así como como apoderado en otras entidades clave del ecosistema sanitario y corporativo.
 
 experience:
-  show: false
+  show: true
   order: 2
-  title: Experiences
+  title: Experiencia
   description: |
-    TL;DR: Общий опыт в IT - 12 лет:
-    - 2 года backend / frontend
-    - 5 лет в мобильной разработке
-    - 3 года в роли лида
-    - 2 года в роли Head of Mobile
+    Trayectoria destacada en dirección de empresas del sector salud y prevención de riesgos laborales:
 
   items:
-    - company: Touch Instinct
-      link: 'touchin.ru'
-      tags: Team Planning, Delegation, Assessments, Processes, Core-libs
-      date: 2021.10 - Present
-      role: Head of Mobile Development
-      location: Saint-Petersburg
+    - company: Quirón Prevención S.L.
+      link: 'https://www.quironprevencion.com'
+      tags: Presidencia, Prevención, Salud Laboral, Dirección Estratégica
+      date: 2020.02 - Presente
+      role: Presidente
+      location: España
       description: |
-        - Формирование проектных команд и ротация специалистов между ними
-        - Общие матрицы компетенций между отделами iOS и Android
-        - Составление требований к core компонентам совместно с дизайнерами, аналитиками и QA
-        - Проектирование и разработка core библиотек на платформах iOS и Android
-        - Подбор iOS и Android лидов в команду клиента
+        - Nombramiento oficial según BORME (19/02/2020).
+        - Liderazgo en la mayor empresa de prevención de riesgos laborales de España.
+        - Impulso de proyectos de digitalización y mejora de procesos en medicina del trabajo.
+        - Representación institucional del grupo Quirón Salud en el ámbito preventivo.
 
-    - company: Touch Instinct
-      link: 'touchin.ru'
-      tags: Team Management, Hiring, Mentoring, Delegation, Assessments, Processes, Core-libs, CI/CD, API
-      date: 2018.12 - 2021.10
-      role: iOS Team Lead
-      location: Saint-Petersburg
+    - company: Gestión Integral de Seguridad y Salud SL
+      link: '' # No se encontró web oficial, revisar si existe más información pública.
+      tags: Apoderado, Salud Corporativa, Consultoría en PRL
+      date: 2019.03 - Presente
+      role: Apoderado
+      location: España
       description: |
-        - Найм и развитие команды
-        - Написание гайдов и процессов
-        - Проектирование и разработка core библиотек
-        - Автоматизация CI/CD
-        - Проектирование мобильного API
-        - Менеджмент проектов по совместительству
+        - Nombramiento según BORME (06/03/2019).
+        - Participación activa en la toma de decisiones operativas.
+        - Desarrollo de estrategias en seguridad, salud y formación laboral para grandes empresas.
 
-    - company: Touch Instinct
-      link: 'touchin.ru'
-      tags: Project Management, Backend, Frontend, API, DevOps, CI/CD
-      date: 2017.05 - 2017.11
-      role: Tech Lead / Architect
-      location: Saint-Petersburg
-      description: |
-        **Заметка:** Временный переход на роль Project Lead.
 
-        - Руководство кросс–функциональной командой web проекта (backend + frontend)
-        - Проектирование API для взаимодействия backend и frontend
-        - Проектирование API для других проектов компании
-        - Написание Swagger-подобной утилиты для внутреннего использования
-        - Построение pipeline'а сборки и разворачивания проекта
-        - Code review backend и frontend
-
-    - company: Touch Instinct
-      link: 'touchin.ru'
-      tags: iOS, Innovations, Core-libs, Mentoring, Meetups
-      date: 2015.03 - 2018.12
-      role: iOS Developer (junior..senior)
-      location: Saint-Petersburg
-      description: |
-        - Участие в разработке более десятка приложений
-        - Внедрение кодогенерации API слоя на проектах
-        - Питчинг и продажа идеи верстки в коде остальным ребятам из отдела
-        - Разработка и добавление базовых компонентов в core библиотеку
-        - Code review, менторство, доклады
-
-    - company: Интелектуальная Транспортрная Система
-      link: 'smart-transport.ru'
-      tags: iOS, DevOps
-      date: 2014.08 - 2014.12
-      role: Junior iOS Developer
-      location: Tyumen
-      description: |
-        - Разработка iOS приложения с оффлайн режимом работы
-        - Написание скриптов и cookbook'ов для разворачивания картографического сервера
-        - Создание расширения для PostgreSQL
-
-    - company: Тюменьгортранс
-      link: 'tgt72.ru'
-      tags: iOS, Android, Frontend, Backend, DevOps
-      date: 2012.10 - 2014.08
-      role: Fullstack multi-platform developer
-      location: Tyumen
-      description: |
-        - Разработка iOS и Android приложений с оффлайн картами и шифрованием в API
-        - Разработка и поддержка backend для приложений
-        - Написание скриптов и cookbook'ов для разворачивания сервера API
-        - Добавление новых возможностей в web проекты
-
-    - company: СибГеоПроект
-      link: 'sibgeoproject.ru'
-      tags: Desktop, Frontend
-      date: 2012.06 - 2012.09
-      role: Intern
-      location: Tyumen
-      description: |
-        - Плагин для ArcGIS 10
-        - Dashboard для отображения задач из TFS
-
-    - company: Сибирский научно-аналитический центр
-      link: 'sibsac.ru'
-      tags: Desktop, Frontend
-      date: 2011.02 - 2011.10
-      role: Intern
-      location: Tyumen
-      description: |
-        - Разработка desktop приложения-админки к ORM системе
-        - Добавление новых возможностей в J2EE web приложение
 
 project:
   show: false
@@ -500,22 +413,33 @@ language:
       level: Novice
 
 interest:
-  show: false
+  show: true
   order: 12
-  title: Interests
+  title: Sites
   description:
 
   items:
-    - item: Arduino
-      link:
-    - item: Дроны
-      link:
-    - item: Ивестиции
-      link:
-    - item: Готовка
-      link:
-    - item: Языки
-      link:
+    - item: Un ejecutivo de Quirón
+      link: https://un-ejecutivo-de-quiron.fernando-camino.com
+    - item: Panel de administración de Fernando Camino
+      link: https://admin.fernando-camino.com
+    - item: Área confidencial de Fernando Camino
+      link: https://confidencial.fernando-camino.com
+    - item: Director ejecutivo de Quirón Prevención
+      link: https://director-ejecutivo-de-quiron-prevencion.fernando-camino.com
+    - item: El mejor directivo de Quirón Prevención
+      link: https://el-mejor-directivo-de-quiron-prevencion.fernando-camino.com
+    - item: Presidente de Quirón Prevención
+      link: https://presidente-de-quiron-prevencion.fernando-camino.com
+    - item: Presupuestos
+      link: https://presupuestos.fernando-camino.com
+    - item: Un directivo de Quirón
+      link: https://un-directivo-de-quiron.fernando-camino.com
+    - item: Perfil de Fernando Camino como directivo
+      link: https://un-directivo.fernando-camino.com
+    - item: Perfil ejecutivo Quirón Fernando Camino
+      link: https://un-ejecutivo-de-quiron.fernando-camino.com
+
 
 evaluation:
   show: false
