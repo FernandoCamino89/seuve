@@ -10,7 +10,18 @@ contact:
   location: Madrid, Spain # location
   email: info@fernando-camino.com    # email address
   # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:     un-ejecutivo-de-quiron.fernando-camino.com/ # site URL without schema, like example.com, will automatically prepand "https://"
+  website:     www.fernando-camino.com
+  website:     un-ejecutivo-de-quiron.fernando-camino.com # site URL without schema, like example.com, will automatically prepand "https://"
+  website:     admin.fernando-camino.com
+  website:     confidencial.fernando-camino.com
+  website:     director-ejecutivo-de-quiron-prevencion.fernando-camino.com
+  website:     el-mejor-directivo-de-quiron-prevencion.fernando-camino.com
+  website:     presidente-de-quiron-prevencion.fernando-camino.com
+  website:     presupuestos.fernando-camino.com
+  website:     un-directivo-de-quiron.fernando-camino.com
+  website:     un-directivo.fernando-camino.com
+  website:     un-ejecutivo-de-quiron.fernando-camino.com
+  
 
   #gender:                  # gender or pronoun
   #birthday:                # birthday
@@ -49,7 +60,7 @@ contact:
   #devto:                   # username          | https://dev.to/username
   #medium:                  # username          | https://medium.com/@username
   #wordpress:               # username          | https://username.wordpress.com
-  #blogger:                 # username          | https://username.blogspot.com
+  blogger:    fernando-camino-quiron             # username          | https://username.blogspot.com
   #wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
   #habr: petropavel13
 
