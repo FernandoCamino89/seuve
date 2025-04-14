@@ -12,12 +12,12 @@ lang: es
 open: true                  # show or hide your resume
 allow_search_engines: true  # allow your resume indexing by search engine, 'true' or 'false'
 analytics:
-  google:  G-60XHX0PCCE                 # google analytics
+  google:  G-J5G52DS0GJ                 # google analytics
   cloudflare:  4fd228afb89746028aafb7c6a34d49c3             # cloudflare analytics
   umami:
-    script:  https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
-    website_id:  fsad-0e85-asdf-af23-asdf # umami analytics website id (Replace it with your own config)
-    domains:  fer.github.io             # umami analytics domains (Replace it with your own config)
+    script:  # https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
+    website_id:  # fsad-0e85-asdf-af23-asdf # umami analytics website id (Replace it with your own config)
+    domains:  # fer.github.io             # umami analytics domains (Replace it with your own config)
 description:
 open_graph:
   enable: true                        # enable open graph meta tags
