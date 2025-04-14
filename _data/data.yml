@@ -1,86 +1,86 @@
 basic:
-  name: Ivan Smolin                      # name
-  title: Head of Mobile Development           # job title
+  name: Fernando Camino                      # name
+  title: Un ejecutivo de Quirón Prevención         # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Saint-Petersburg, Russia # location
-  email: mail4work0xFF@gmail.com    # email address
+  location: Madrid, Spain # location
+  email: info@fernando-camino.com    # email address
   # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:     # site URL without schema, like example.com, will automatically prepand "https://"
+  website:     un-ejecutivo-de-quiron.fernando-camino.com/# site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
+  #gender:                  # gender or pronoun
+  #birthday:                # birthday
+  #nationality:             # nationality
+  #visa:                    # passport visa
+  #drivinglicense:          # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram: petropavel                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  #wechat:                  # username
+  #whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  #telegram: petropavel                # username          | https://t.me/username
+  #messenger:               # username          | https://m.me/username
+  #line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  #viber:                   # username          | https://vb.me/username
+  #threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github: petropavel13                  # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
+  #github: petropavel13                  # username          | https://github.com/username
+  #gitlab:                  # username          | https://gitlab.com/username
+  #bitbucket:               # username          | https://bitbucket.com/username
+  #stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  #leetcode:                # username          | https://leetcode.com/username
+  #codeforces:              # username          | https://codeforces.com/profile/username
+  #codewars:                # username          | https://www.codewars.com/users/username
+  #codepen:                 # username          | https://codepen.io/username
+  #tryhackme:               # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  #googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  #researchgate:            # username          | https://www.researchgate.net/profile/username
+  #kaggle:                  # username          | https://www.kaggle.com/username
+  #orcid:                   # id                | https://orcid.org/id
+  #figshare:                # name/id           | https://figshare.com/authors/name/id
 
   # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
-  habr: petropavel13
+  #devto:                   # username          | https://dev.to/username
+  #medium:                  # username          | https://medium.com/@username
+  #wordpress:               # username          | https://username.wordpress.com
+  #blogger:                 # username          | https://username.blogspot.com
+  #wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+  #habr: petropavel13
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
+  #figma:                   # username          | https://www.figma.com/@username
+  #behance:                 # username          | https://www.behance.net/username
+  #dribble:                 # username          | https://dribbble.com/username
+  #artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  #linkedin:                # username          | https://linkedin.com/in/username
+  #indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  #xing:                    # username          | https://www.xing.com/profile/username
+  #fiverr:                  # username          | https://www.fiverr.com/username
+  #freelancer:              # username          | https://www.freelancer.com/u/username
 
   # social media
   twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
+  #mastodon:                # username@server
   instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
+  #unsplash:                # username          | https://unsplash.com/@username
+  #_500px:                  # username          | https://500px.com/p/username
   youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
+  #tiktok:                  # username          | https://www.tiktok.com/@username
+  #quora:                   # username          | https://www.quora.com/profile/username
+  #zhihu:                   # username          | https://www.zhihu.com/people/username
+  #goodreads:               # username          | https://www.goodreads.com/user/show/username
+  #strava:                  # useid             | https://www.strava.com/athletes/userid
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Profile
   description: |
@@ -93,7 +93,7 @@ profile:
     Ищу компанию в которой смогу по-максимуму применить свои навыки и продолжать узнавать новое и приносить пользу бизнесу, команде и конечным пользователям.
 
 experience:
-  show: true
+  show: false
   order: 2
   title: Experiences
   description: |
@@ -204,7 +204,7 @@ experience:
         - Добавление новых возможностей в J2EE web приложение
 
 project:
-  show: true
+  show: false
   order: 3
   title: Projects
   description: |
@@ -300,7 +300,7 @@ project:
         - Адаптировал приложене под iPad
 
 skill:
-  show: true
+  show: false
   order: 4
   title: Skills
   description:
@@ -353,7 +353,7 @@ skill:
         - DevOps
 
 education:
-  show: true
+  show: false
   order: 5
   title: Education
   description:
@@ -366,7 +366,7 @@ education:
       description:
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description:
@@ -396,7 +396,7 @@ certificate:
       description:
 
 publication:
-  show: true
+  show: false
   order: 7
   title: Publications
   description:
@@ -471,7 +471,7 @@ organization:
     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
 
 language:
-  show: true
+  show: false
   order: 11
   title: Languages
 
@@ -489,7 +489,7 @@ language:
       level: Novice
 
 interest:
-  show: true
+  show: false
   order: 12
   title: Interests
   description:
@@ -507,7 +507,7 @@ interest:
       link:
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
