@@ -67,12 +67,12 @@ contact:
   #freelancer:              # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:  https://x.com/fernandocamino_               # username          | https://twitter.com/username
+  twitter:  fernandocamino_               # username          | https://twitter.com/username
   #mastodon:                # username@server
-  instagram:  https://www.instagram.com/fernandocaminoquiron             # username          | https://instagram.com/username
+  instagram:  fernandocaminoquiron             # username          | https://instagram.com/username
   #unsplash:                # username          | https://unsplash.com/@username
   #_500px:                  # username          | https://500px.com/p/username
-  youtube:  https://www.youtube.com/@fernando-camino/videos               # username          | https://www.youtube.com/@username
+  youtube:  fernando-camino/videos               # username          | https://www.youtube.com/@username
   #tiktok:                  # username          | https://www.tiktok.com/@username
   #quora:                   # username          | https://www.quora.com/profile/username
   #zhihu:                   # username          | https://www.zhihu.com/people/username
