@@ -1,6 +1,6 @@
 title: Un ejecutivo de Quirón Prevención | Fernando Camino
-url: 
-baseurl: un-ejecutivo-de-quiron.fernando-camino.com
+url: un-ejecutivo-de-quiron.fernando-camino.com
+baseurl: 
 
 # Sass setting
 sass:
@@ -15,9 +15,9 @@ analytics:
   google:  G-60XHX0PCCE                 # google analytics
   cloudflare:  4fd228afb89746028aafb7c6a34d49c3             # cloudflare analytics
   umami:
-    script: # https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
-    website_id: # 7abcbc2a-0e85-4f3d-af23-27a407d35bd6 # umami analytics website id (Replace it with your own config)
-    domains: # petropavel13.github.io             # umami analytics domains (Replace it with your own config)
+    script:  https://us.umami.is/script.js                # umami analytics script src (Replace it with your own config)
+    website_id:  fsad-0e85-asdf-af23-asdf # umami analytics website id (Replace it with your own config)
+    domains:  fer.github.io             # umami analytics domains (Replace it with your own config)
 description:
 open_graph:
   enable: true                        # enable open graph meta tags
