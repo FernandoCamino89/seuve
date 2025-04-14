@@ -10,7 +10,7 @@ contact:
   location: Madrid, Spain # location
   email: info@fernando-camino.com    # email address
   # phone: +86-111-2222-3333 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website:     un-ejecutivo-de-quiron.fernando-camino.com/# site URL without schema, like example.com, will automatically prepand "https://"
+  website:     un-ejecutivo-de-quiron.fernando-camino.com/ # site URL without schema, like example.com, will automatically prepand "https://"
 
   #gender:                  # gender or pronoun
   #birthday:                # birthday
@@ -67,12 +67,12 @@ contact:
   #freelancer:              # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
+  twitter:  https://x.com/fernandocamino_               # username          | https://twitter.com/username
   #mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
+  instagram:  https://www.instagram.com/fernandocaminoquiron             # username          | https://instagram.com/username
   #unsplash:                # username          | https://unsplash.com/@username
   #_500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
+  youtube:  https://www.youtube.com/@fernando-camino/videos               # username          | https://www.youtube.com/@username
   #tiktok:                  # username          | https://www.tiktok.com/@username
   #quora:                   # username          | https://www.quora.com/profile/username
   #zhihu:                   # username          | https://www.zhihu.com/people/username
