@@ -25,7 +25,7 @@ open_graph:
 
 # Style
 text_direction: ltr         # text direction, 'ltr' or 'rtl'
-date_format: "%Y%m%d"     # date format
+date_format: "%Y%m%d%H%m%s"     # date format
 theme_color: "#1DA1F2"      # your favorite theme color
 contact_delimiter: "|"      # contact delimiter, '·', '/' or '|'
 section_icon: true          # section title icon, true or false
